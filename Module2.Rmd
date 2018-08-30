@@ -4,9 +4,9 @@ author: '450132759'
 date: "August 28, 2018"
 output: 
   prettydoc::html_pretty:
-    theme: cayman
-    highlight: option
-    css: custom.css
+    theme: cayman # prettydoc theme
+    highlight: option # syntax highlighting
+    css: custom.css # custom css file to change font family and size
 ---
 
 ```{r setup, include=FALSE}
@@ -21,7 +21,7 @@ survey = readr::read_csv("data.csv")
 ```
 
 ## Fix column names
-Change the postcode to char, one type of postcode is no better than the rest.
+TODO: Change the postcode to char, does not make sense to compare postcode by their values.
 ```{r}
 old_names = colnames(survey)
 new_names = c("timestamp", "id", "gender", "postcode", "intro_stat", "clubs",
