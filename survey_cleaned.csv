@@ -1,0 +1,83 @@
+timestamp,id,gender,postcode,intro_stat,clubs,study_time,social_media,siblings,pet,live_with_parents,exercise_time,eye_colour,work_time,fav_season,shoe_size,height
+07/08/2018 11:20:53,calvinhan,M,2006,NA,1,20,instagram,0,Yes,No,5,Black,0,Spring,10,183
+07/08/2018 11:22:08,acske,F,2008,Exchange Student,2,5,instagram,2,Yes,No,5,Brown,0,Autumn,9,173
+07/08/2018 11:49:10,Bob Smith,M,2016,DATA1001,1,25,Other,1,Yes,No,2,Brown,6,Summer,11,193
+07/08/2018 11:50:37,Albert Sherman,M,2320,DATA1001,0,8,facebook,0,No,Yes,0,Green,8,Winter,7,161
+07/08/2018 12:47:08,Gondor,M,2131,NA,0,20,Other,2,Yes,No,2,Hazel,50,Autumn,9,178
+07/08/2018 12:59:18,new york slice,Other,NA,MATH1015,0,2,twitter,0,No,Yes,1,Brown,0,Winter,13,180
+07/08/2018 13:25:40,unique123,M,2016,MATH1005,0,20,reddit,2,Yes,No,10,Brown,20,Summer,11,190
+07/08/2018 17:17:20,Caterpillar,M,2140,BUSS1020,1,0,facebook,1,No,Yes,0,Brown,15,Winter,10.5,182
+07/08/2018 19:48:59,Xinyuan Zhang,F,2008,Buss1020,0,30,wechat,0,No,No,2,Black,0,Autumn,9,175
+07/08/2018 20:48:16,Figjam,M,2050,None,1,5,instagram,1,No,No,6,Blue,0,Spring,9,178
+07/08/2018 20:51:19,Maximus Decimus Meridius,M,2070,DATA1001,3,7,reddit,2,Yes,Yes,1,Brown,2,Autumn,15,200
+07/08/2018 21:38:29,haiyiii,F,2218,MATH1005,0,25,wechat,0,No,Yes,3,Black,24,Spring,6,163
+07/08/2018 21:48:19,4504,M,2073,MATH1005,3,20,facebook,3,Yes,Yes,7,Brown,25,Spring,9.5,188
+08/08/2018 09:29:40,111111111111111111111111010111010,M,2074,DATA1001,6,10,facebook,1,No,Yes,8,Brown,6,Spring,11,180
+08/08/2018 09:52:19,John Smith the Second,M,2008,MATH1005,2,60,facebook,2,Yes,No,3,Green,5,Autumn,42,193
+08/08/2018 10:16:24,Chippasaur,M,2074,DATA1001,0,1,none,0,No,No,1,Brown,27,Autumn,7.5,229.99999999999997
+08/08/2018 10:24:55,HMD,F,2050,"Trinity College Dublin University, Ireland - Statistics Intro",4,15,instagram,1,No,No,5,Green,15,Summer,8,165
+08/08/2018 11:31:39,123654,M,2068,BUSS1020,0,5,facebook,1,Yes,Yes,8,Brown,16,Autumn,10,177
+08/08/2018 12:51:46,Stavrakakis,M,2050,MATH1905,4,12,snapchat,2,Yes,No,10,Dark Brown,5,Winter,10,190
+08/08/2018 14:52:25,Sharpay,F,2042,MATH1005,7,15,Other,2,No,No,10,Other,10,Autumn,9,163
+08/08/2018 22:08:00,Maximilian Valentine,M,2065,MATH1005 and STAT2011,0,6,reddit,1,Yes,No,2,Brown,2,Winter,11.5,182.88
+09/08/2018 16:44:30,SkinnersDiggersUSYDedition,M,2065,MATH1005,2,60,instagram,0,No,Yes,4,Brown,6,Spring,9,175
+09/08/2018 19:12:51,Mary,F,2018,MATH1005,1,30,facebook,3,No,Yes,0,Brown,12,Summer,7,155
+09/08/2018 23:07:47,AnonymousStudent,M,2008,MATH1005 and MATH1115,0,20,twitter,2,Yes,No,5,Brown,8,Summer,10,180
+11/08/2018 11:13:54,dataman,M,2074,BUSS1020,3,10,instagram,2,Yes,Yes,9,Green,16,Summer,11,180
+11/08/2018 18:41:34,jorghi,M,2037,MATH1005,0,22,youtube,5,Yes,No,1,Brown,0,Spring,9,170
+11/08/2018 19:01:31,imxixi,F,2008,MATH1005,4,20,instagram,1,No,No,5,Black,0,Autumn,37,160
+12/08/2018 19:52:44,zombiecookie,F,2050,"Exchange student, took an introductory programming class in Java and a course called Probabilities & Statistics",2,40,facebook,1,No,No,1,Blue,0,Spring,6,160
+13/08/2018 21:58:32,neo,F,2768,DATA1001,20,10,snapchat,1,No,Yes,3,Brown,0,Autumn,7.5,163
+15/08/2018 14:19:25,lemmur,Other,2007,TI2216M,1,32,facebook,1,No,No,4,Brown,1,Spring,10,182
+16/08/2018 12:24:47,spongebob,F,2050,MATH1005,0,15,instagram,1,Yes,No,5,Brown,10,Summer,7.5,163
+19/08/2018 11:06:35,MjolnirWorthy,F,2500,BUSS1020,3,17,snapchat,0,No,Yes,3,Brown,3,Autumn,7.5,166
+19/08/2018 21:05:39,student1,F,NA,MATH1005 and MATH1115,1,42,facebook,3,Yes,No,0.5,Dark Brown,0,Spring,7,NA
+20/08/2018 15:10:32,Ozza,M,2130,DATA1001,5,30,facebook,12,Yes,No,7,Hazel,0,Spring,7.5,178
+20/08/2018 15:12:34,tsukumo_k,M,2050,MATH1005,0,10,none,0,No,No,0,Black,0,Summer,10.5,174
+20/08/2018 15:13:25,Lola,F,2008,MATH1005,1,20,wechat,0,No,No,2,Black,0,Summer,7,177
+20/08/2018 15:13:47,Doodles,M,2141,None,0,20,instagram,1,No,Yes,0,Brown,15,Autumn,9,174
+20/08/2018 15:13:49,Bepis,M,2002,DATA1001,250,0,snapchat,7,Yes,No,24,Green,0,Winter,24,NA
+20/08/2018 15:13:55,Ryan,F,2088,MATH1005,13,2,instagram,4,No,Yes,1,Green,15,Winter,9,165
+20/08/2018 15:14:00,nrh,M,2131,MATH1905,3,5,reddit,0,Yes,No,5,Green,4,Autumn,11,188
+20/08/2018 15:14:17,LGD No.1,M,2140,MATH1005,0,10,wechat,2,Yes,No,0,Black,0,Autumn,43,183
+20/08/2018 15:14:47,Lucasia,M,2007,transferring credit,0,5,Other,0,No,No,3,Black,0,Autumn,42.5,180
+20/08/2018 15:14:54,Gunter,M,2062,DATA1001,2,0,facebook,2,No,Yes,3,Brown,16,Summer,14,182
+20/08/2018 15:14:59,francis,M,2034,MATH1005,1,24,Other,0,Yes,No,0,Brown,0,Summer,42,175
+20/08/2018 15:15:00,xyz,M,2042,MATH1005,1,7,instagram,1,No,No,0,Black,0,Spring,44,180
+20/08/2018 15:15:14,lll,F,2008,stat2011,0,20,Other,0,Yes,No,0,Dark Brown,0,Winter,39,176
+20/08/2018 15:15:20,yale,M,2016,MATH1005,0,30,facebook,2,No,Yes,6,Black,2,Winter,8,175
+20/08/2018 15:15:20,afro,M,2200,MATH1005,0,8,facebook,5,No,No,2,Black,12,Summer,11,170
+20/08/2018 15:15:24,mofzzh,M,2020,MATH1005,1,24,instagram,0,No,No,7,Black,0,Winter,7,172
+20/08/2018 15:15:29,AZ,F,2135,MATH1905,4,28,instagram,3,No,Yes,3,Dark Brown,3,Winter,10,170
+20/08/2018 15:15:30,SS,M,2089,MATH1005,10,5,facebook,0,No,No,3,Black,0,Autumn,8.5,167
+20/08/2018 15:15:46,Shaoxuan Jiang,M,2205,MATH1005,0,24,wechat,5,No,No,7,Black,0,Autumn,9.5,175
+20/08/2018 15:15:50,1234,F,2130,MATH1005,2,20,none,2,Yes,Yes,4,Dark Brown,18,Autumn,9.5,171
+20/08/2018 15:16:05,Coco,F,2130,MATH1015 and MATH1115,0,30,wechat,1,No,No,5,Brown,0,Autumn,6,166
+20/08/2018 15:16:09,Zoe,F,2005,MATH1005,1,42,wechat,1,Yes,No,1,Black,0,Summer,37.5,168
+20/08/2018 15:16:17,Flora,F,2010,MATH1005,2,20,youtube,0,No,No,10,Brown,0,Winter,6,167
+20/08/2018 15:16:17,Jesus,Other,3022,MATH1023,52,1500,Other,45,Yes,Yes,48,Other,55,Summer,91,NA
+20/08/2018 15:16:24,grace,F,2000,MATH1005,0,15,wechat,1,No,No,2,Dark Brown,0,Spring,7,172
+20/08/2018 15:16:50,Jimmy,F,2118,MATH1005,1,10,facebook,0,NA,No,0,Brown,0,Winter,7,174
+20/08/2018 15:16:53,gnat,F,2042,MATH1005,5,3,facebook,0,Yes,No,7,Black,11,Autumn,7,163
+20/08/2018 15:17:00,annie,F,NA,MATH1005,0,5,NA,NA,Yes,No,5,Black,0,Summer,37,160
+20/08/2018 15:24:52,Donald J Trump,Other,20500,"Donald J Trump University $12,000 PhD in Data Science",1,0,twitter,4,Yes,Yes,168,Other,168,Autumn,100,NA
+21/08/2018 09:09:53,cx,F,2123,MATH1005 and MATH1115,0,28,wechat,0,No,No,8,Black,0,Winter,37,158
+21/08/2018 09:11:14,Nancyz,F,2008,BUSS1020,0,30,wechat,0,No,No,3,Brown,0,Spring,9,175
+21/08/2018 09:11:26,Rong,F,2018,DATA1001,4,20,Other,0,No,No,5,Black,0,Autumn,38,164
+21/08/2018 09:13:33,Sydney,F,2166,DATA1001,1,8,youtube,0,No,No,4,Brown,0,Winter,7,164
+21/08/2018 09:13:38,2309,F,2190,MATH1005 and MATH1115,1,30,instagram,2,Yes,Yes,0.5,Dark Brown,0,Autumn,6,150
+21/08/2018 09:13:55,Cincy,M,2007,Probability,0,15,instagram,1,Yes,No,12,Brown,0,Winter,9,177
+21/08/2018 09:14:02,Zain,M,2037,MATH1005,4,20,facebook,2,No,No,6,Dark Brown,0,Autumn,8,174
+21/08/2018 09:14:08,scottyboy,M,2088,MATH1905,0,40,Other,2,No,No,8,Hazel,10,Summer,9.5,179
+21/08/2018 09:29:30,Queen,F,2192,DATA1001,5,8,snapchat,0,Yes,Yes,6,Brown,20,Spring,6,159
+21/08/2018 14:10:41,jBoi,M,2118,MATH1005,5,30,facebook,1,Yes,Yes,8,Brown,2,Spring,9,183
+21/08/2018 14:11:25,hihihi,F,2138,MATH1005,5,21,instagram,0,No,No,4,Black,0,Summer,38,168
+23/08/2018 10:31:20,A name,M,2134,MATH1005,1,17,facebook,1,Yes,No,1,Brown,20,Spring,7,173
+23/08/2018 14:19:37,Evan,M,2038,MATH1005,2,15,instagram,3,Yes,No,6,Brown,12,Spring,8,170
+23/08/2018 14:19:50,Jessep,M,2227,MATH1905,0,15,facebook,3,Yes,Yes,1,Hazel,24,Summer,9,173
+23/08/2018 14:20:35,Identifier 2,Other,2142,MATH1005,0,7,reddit,1,No,Yes,3,Brown,0,Spring,10,175
+23/08/2018 14:20:36,chloe chen,F,2000,DATA1001,0,20,twitter,0,No,No,0,Brown,16,Autumn,36,163
+23/08/2018 14:21:38,ZBallr,F,2007,NA,0,27,facebook,1,No,No,5,Green,0,Summer,10,NA
+23/08/2018 14:21:55,Grace Grace,M,2015,MATH1015 and MATH1115,0,10,Other,3,Yes,No,10,Blue,30,Spring,12,193
+23/08/2018 14:22:24,C123,M,2229,MATH1015,0,4,NA,2,Yes,Yes,4,Brown,24,Summer,8,168
+23/08/2018 14:30:29,Seventeen,F,2050,Exchange Student,0,20,instagram,2,No,No,4,Brown,12,Summer,9,173
