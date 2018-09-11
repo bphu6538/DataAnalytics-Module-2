@@ -13,14 +13,14 @@ output:
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
-## Importing Data
+## Importing data
 
 ```{r import}
 library(tidyverse)
 survey = readr::read_csv("survey.csv")
 ```
 
-## Fix column names
+## Fixing column names
 TODO: Change the postcode to char, does not make sense to compare postcode by their values.
 ```{r}
 old_names = colnames(survey)
@@ -39,8 +39,7 @@ survey$eye_colour <- tolower(survey$eye_colour) # change all names to lowercase
 survey$eye_colour = stringr::str_to_title(survey$eye_colour) # Capitalize first letter of every word
 survey$eye_colour <- forcats::fct_lump(survey$eye_colour, n = 6) # preserve the 6 most common eye colours, and converts the smaller categories to a 'other' category
 ggplot(survey, aes(x = eye_colour)) + 
-  geom_bar(fill = c("black","blue","brown2","brown4",
-                    "green3","darkgoldenrod3","red")) + 
+  geom_bar(fill = c("black","blue","brown2","brown4","green3","darkgoldenrod3","red")) + 
   labs(title = names(new_names[new_names == "eye_colour"]),
        y = "Count", x = "Eye colour") + 
   theme_linedraw() + coord_flip()
@@ -59,7 +58,7 @@ survey = survey %>%
 table(survey$gender)
 ```
 
-### Social Media
+## Social media
 ```{r}
 survey$social_media = tolower(survey$social_media)
 survey$social_media = forcats::fct_recode(survey$social_media,
@@ -101,4 +100,20 @@ ggplot(survey, aes(y = height, x = gender)) +
 readr::write_csv(survey, "survey_cleaned.csv")
 ```
 
+******
 
+## Questions
+
+### 1. Is this a random sample of DATA2002 students?
+
+### 2. What are the potential biases in this data generation?
+
+### 3. Which variables are most likely to be subjected to this bias?
+
+### 4. Is there any evidence that there is difference in height between males and females?
+
+### 5. Is there any evidence that the weekly exercise time of students who participate in more than 3 univeristy clubs is different to those who don’t?
+
+### 6. Is there evidence that students who live with their parents study more hours per week than students who don’t live with their parents?
+
+### 7. What other questions could you ask? These might also be questions we learnt to answer in Module 1 regarding the relationship between categorical variables - that’s OK, you might use the group work discussion from Lab 1C to help think of other questions to ask.
